@@ -20,8 +20,6 @@ Then, you can run your code in the conda environment named `env_eventcause`. You
 
 * **models.py**: Core Skeleton of the Model Framework.
 
-* **untils.py**: Some reusable modules for model training and evaluations.
-
 
 ### Replications
 
