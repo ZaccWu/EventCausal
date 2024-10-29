@@ -1,4 +1,4 @@
-This is the code repository for **estimating causal effects of events**.
+# code repository for **estimating causal effects of events**.
 
 This repository contains `PyTorch` implementations of training, evaluating, and predicting from our model. 
 
@@ -36,7 +36,7 @@ python train.py
 If you use the code in this repository, please cite the following wordings:
 
 ```
-Wu, Z. Code implementation for causal effect estimation for event data, accessed on October 20, 2024.
+Wu, Z. Code implementation for causal effect estimation for event data, accessed on October 29, 2024.
 ```
 or the BibTeX format:
 
