@@ -25,7 +25,11 @@ Then, you can run your code in the conda environment named `env_eventcause`. You
 
 ### Replications
 
-TBD.
+The code can be run with a simple demo:
+
+```
+python train.py
+```
 
 ### Citation
 
